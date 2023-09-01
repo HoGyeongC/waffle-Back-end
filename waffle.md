@@ -1,5 +1,5 @@
 # Waffle
-- 사
+![와플 로고](https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/378f2907-138f-410d-ae1d-af137faad142)
 - 한줄 소개 : 다수 인원 간의 소통, 의견 공유, 일정 관리에 효율적인 UI를 제공하는 동시에 프로젝트 수행을 위한 다양한 기능을 제공하는 웹서비스
 - 세종대학교 2023-1 자기주도창의전공
 - 개발 기간 : 2023.02 ~ 2023.06
@@ -50,23 +50,23 @@
   |:---:|:---:|
   | 실시간 채팅 | 화상 채팅 |
 
-  |  |  |
+  |<img width="437" alt="캘린더" src="https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/1414a309-7ba4-46fa-b785-abbd44c653ea">  | <img width="437" alt="보드" src="https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/af6164d2-2434-4443-9722-2fdd3071638b"> |
   |:---:|:---:|
   | 캘린더 | 보드 |
 
-  |  |  |
+  |<img width="437" alt="본인 프로필" src="https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/7f5026a5-da0b-4e3b-b582-dbfa3315ed17"> | <img width="437" alt="타인 프로필" src="https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/4704681a-0dd6-4d7a-84b4-333d4186095f"> |
   |:---:|:---:|
   | 본인 프로필 | 타인 프로필 |
 
-  |  |  |
+  | <img width="437" alt="그룹 생성" src="https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/02ab0dfc-0a7d-4689-9db0-34c05b533162"> |<img width="437" alt="그룹 초대" src="https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/6f90e5bd-e4c6-4888-8478-e37b216e3928"> |
   |:---:|:---:|
   | 그룹 생성 | 그룹 초대 |
 
-  |  |  |
+  | <img width="437" alt="룸 생성" src="https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/0f559a89-16de-4f38-9eee-19166c76dcb9"> | <img width="437" alt="룸 초대" src="https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/a8bb7b07-c4a9-485b-9b5d-9f9771129095"> |
   |:---:|:---:|
   | 룸 생성 | 룸 초대 |  
 
-  |  |  |
+  |<img width="437" alt="게시판" src="https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/374112e6-5fe9-4e91-bd3e-a22b2cee95bc">  | <img width="386" alt="로그아웃" src="https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/312a57f5-87f8-4ac2-b94f-3f58fa984aa6"> |
   |:---:|:---:|
   | 게시판 | 로그아웃 |
 
@@ -111,7 +111,7 @@
 ![ERD](https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/d7b44ad5-5a6d-459f-815e-9a0ec8c5261b)
 
 ## 디자인 설계
-피그마
+![피그마](https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/e187053f-0557-4c79-b3ae-8425f83c5435)
 
 ## 최종 테스트
 ![테스트 케이스1](https://github.com/HoGyeongC/waffle-Back-end/assets/114250166/da0dfcbf-d0d7-452b-a2e7-d41fdd525c92)
